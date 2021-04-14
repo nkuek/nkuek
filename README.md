@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Nick and I'm a software engineer specializing in JavaScript, React, and Redux. Thank you for visiting my Github page! Pinned to my page are projects I've worked on over the last 2 months that I feel highlight the immense progress I have made.
+
+You can also find me on:
+- [LinkedIn](https://linkedin.com/in/nick-kuek)
+- [AngelList](https://angel.co/u/nick-kuek)
+
 
 <!--
 **nkuek/nkuek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
