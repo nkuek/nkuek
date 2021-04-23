@@ -6,7 +6,7 @@ You can also find me on: <br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&url=https://www.linkedin.com/in/nick-kuek/&logo=linkedin&logoColor=white">
   </a>
   <a target="_blank" href="mailto:nkuek@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 Check out my full portfolio here:
