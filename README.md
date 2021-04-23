@@ -5,6 +5,9 @@ You can also find me on:
 - [LinkedIn](https://linkedin.com/in/nick-kuek)
 - [AngelList](https://angel.co/u/nick-kuek)
 
+Check out my full portfolio here:
+- (https://nkuek.dev)
+
 
 <!--
 **nkuek/nkuek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
