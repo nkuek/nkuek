@@ -1,7 +1,6 @@
 ### Hi there 👋
 I'm Nick and I'm a software engineer specializing in JavaScript, React, and Redux. Thank you for visiting my Github page! Pinned to my page are projects I've worked on over the last 2 months that I feel highlight the immense progress I have made.
 
-You can also find me on: <br>
 <a target="_blank" href="https://www.linkedin.com/in/nick-kuek/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&url=https://www.linkedin.com/in/nick-kuek/&logo=linkedin&logoColor=white">
   </a>
