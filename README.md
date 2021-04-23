@@ -6,7 +6,7 @@ You can also find me on:
 - [AngelList](https://angel.co/u/nick-kuek)
 
 Check out my full portfolio here:
-- (https://nkuek.dev)
+- https://nkuek.dev
 
 
 <!--
