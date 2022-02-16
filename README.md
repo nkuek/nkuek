@@ -9,7 +9,7 @@ I'm Nick and I'm a software engineer specializing in JavaScript, React, and Redu
   </a>
 
 Check out my full portfolio here:
-- https://nkuek.dev
+https://nkuek.dev
 
 
 <!--
